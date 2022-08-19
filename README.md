@@ -1,8 +1,7 @@
 # pytorch_learning_two
 # Pytorch模块和基础实战
 
-
-
+![屏幕截图 2022-08-18 083321](https://github.com/xiaohumiaoxian/pytorch_learning_two/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202022-08-18%20083321.png)
 ## 神经网络学习机制：
 
 - 数据预处理
